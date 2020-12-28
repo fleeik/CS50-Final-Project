@@ -17,3 +17,5 @@ Functionalites:
 6. Links to other user profiles.
 7. Logout function.
 
+Explanation Video: https://www.youtube.com/watch?v=1oWaAkoA_1Q&feature=youtu.be
+
